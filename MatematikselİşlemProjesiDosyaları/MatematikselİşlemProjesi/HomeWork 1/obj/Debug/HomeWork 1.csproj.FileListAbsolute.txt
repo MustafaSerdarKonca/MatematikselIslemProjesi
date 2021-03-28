@@ -1,0 +1,24 @@
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork_1.Properties.Resources.resources
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe.config
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.exe
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\HomeWork 1.pdb
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.exe
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.pdb
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csproj.CopyComplete
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork_1.Calculater.resources
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Metin\source\repos\HomeWork 1\HomeWork 1\obj\Debug\HomeWork 1.csproj.ResolveComReference.cache

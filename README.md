@@ -30,6 +30,11 @@ Proje Gereksinimleri
 
 8.	Fonksiyonlar sadece kendi işini yapmalıdır. Fonksiyonları kopyala-yapıştır anti-pattern ile kullanmayalım, olabildiğince ortaklaştıralım.
 
+9.	Örnek ekran ve bildirim görselleri: 
+
+	![Captfure](https://user-images.githubusercontent.com/55615575/112745903-53569300-8fb4-11eb-8c2b-4b8cc49a325a.PNG)
+
+
 
 
 

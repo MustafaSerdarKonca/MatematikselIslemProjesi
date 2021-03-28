@@ -1,3 +1,4 @@
+
 Proje Gereksinimleri
 
 1.	Ekrandan girilen iki sayı arasındaki aşağıdaki hesaplamaların yapılması istenmektedir:
@@ -22,7 +23,9 @@ Proje Gereksinimleri
 5.	Ekranda 4 ayrı tabpage omalı. Hangi tabpage aktifse o taba ait işlem yapılmalıdır. Tab’ler arasında ileri-geri gezinme yapılabilmelidir.
 
 6.	Uygulama açılır açılmaz hangi tabın aktif olacağına karar vermek için “App.config” dosyasından “islem_tipi” isimli anahtar değeri okunacaktır.
-
+	
+	![Capture](https://user-images.githubusercontent.com/55615575/112745880-34580100-8fb4-11eb-98b8-b6ef007addb6.PNG)
+	
 7.	Program açıldığında sağ alt köşeden notification vermelidir. Bunun için NotifyIcon bileşeni kullanılmalıdır. 
 
 8.	Fonksiyonlar sadece kendi işini yapmalıdır. Fonksiyonları kopyala-yapıştır anti-pattern ile kullanmayalım, olabildiğince ortaklaştıralım.

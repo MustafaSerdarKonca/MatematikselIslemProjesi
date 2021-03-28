@@ -8,7 +8,8 @@ Proje Gereksinimleri
 	Armstrong sayılarının listesi, toplamı ve çarpımı
 
 2.	Sayı girişlerinden önce mutlaka doğrulama yapılmalıdır. Bunun için fonksiyon ya da fonksiyonlar yapılabilir. 
-		• Sayı giriş bileşenleri MaskedTextBox olmalıdır
+	
+	• Sayı giriş bileşenleri MaskedTextBox olmalıdır
 
 3.	Ekran temizleme ve hazırlama işlemleri yapılmalıdır. 
 	

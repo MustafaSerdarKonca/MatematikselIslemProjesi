@@ -1,6 +1,7 @@
 Proje Gereksinimleri
 
 1.	Ekrandan girilen iki sayı arasındaki aşağıdaki hesaplamaların yapılması istenmektedir:
+
  	• Tek sayıların listesi, toplamı ve çarpımı 
 	• Çift sayıların listesi, toplamı ve çarpımı 
 	• Asal sayıların listesi, toplamı ve çarpımı 

@@ -25,7 +25,7 @@ Proje Gereksinimleri
 
 8.	Fonksiyonlar sadece kendi işini yapmalıdır. Fonksiyonları kopyala-yapıştır anti-pattern ile kullanmayalım, olabildiğince ortaklaştıralım.
 
-9.	Örnek ekran ve bildirim görselleri diğer sayfada bulunmaktadır.
+
 
 
 

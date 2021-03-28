@@ -2,10 +2,10 @@ Proje Gereksinimleri
 
 1.	Ekrandan girilen iki sayı arasındaki aşağıdaki hesaplamaların yapılması istenmektedir:
 
- 	• Tek sayıların listesi, toplamı ve çarpımı 
-	• Çift sayıların listesi, toplamı ve çarpımı 
-	• Asal sayıların listesi, toplamı ve çarpımı 
-	• Armstrong sayılarının listesi, toplamı ve çarpımı
+ 	Tek sayıların listesi, toplamı ve çarpımı,  
+	Çift sayıların listesi, toplamı ve çarpımı,  
+	Asal sayıların listesi, toplamı ve çarpımı,  
+	Armstrong sayılarının listesi, toplamı ve çarpımı
 
 2.	Sayı girişlerinden önce mutlaka doğrulama yapılmalıdır. Bunun için fonksiyon ya da fonksiyonlar yapılabilir. 
 		• Sayı giriş bileşenleri MaskedTextBox olmalıdır
